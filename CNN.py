@@ -1,6 +1,6 @@
 #IN functional approch, you can try in class too
 
-#import numpy library for omputational math
+#import numpy library for computational math
 import numpy as np
 #import signal from scipy for convolution or as they call signal processing stuff
 from scipy import signal
